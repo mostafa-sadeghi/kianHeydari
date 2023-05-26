@@ -80,12 +80,12 @@ ali is adult'''
 # if '':
 #     print("blallalla")
 
-user_name = input('Enter the user name:> ')
-password = input('enter th password: ')
-if user_name == 'admin' and password =="123":
-    print("login success")
-    print("user is valid")
-    print(f"Welcome {user_name}")
-else:
-    print("login unsuccessful")
-    print(f"{user_name} is not valid")
+# user_name = input('Enter the user name:> ')
+# password = input('enter th password: ')
+# if user_name == 'admin' and password =="123":
+#     print("login success")
+#     print("user is valid")
+#     print(f"Welcome {user_name}")
+# else:
+#     print("login unsuccessful")
+#     print(f"{user_name} is not valid")
